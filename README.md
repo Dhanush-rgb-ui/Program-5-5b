@@ -3,6 +3,7 @@
 To write a C program to calculate the Product of first 12 natural numbers using Recursion
 
 ## For example:
+<img width="250" height="75" alt="image" src="https://github.com/user-attachments/assets/b25aee48-3220-48e2-bccc-0e2ee2399b35" />
 
 ## Program:
 ```c
@@ -22,4 +23,5 @@ int main(){
 }
 ```
 ## Result:
+<img width="515" height="77" alt="image" src="https://github.com/user-attachments/assets/24dbd58f-7a77-4329-b351-e6a02fef909d" />
 
